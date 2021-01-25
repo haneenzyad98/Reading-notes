@@ -1,4 +1,4 @@
-# Reading-Nots
+# Reading-Notes
 
 ### growth mindset help you overcome obstacles you may face when learning something new or developing a new skill and Continuous learning Unlike in a fixed mindset
 
