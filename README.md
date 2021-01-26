@@ -6,11 +6,6 @@ I have participated in a number of information security competitions such as CTF
 
 
 
-| titel       | link                                                                         |
-| ----------- | -----------------------------------------------------------------------------|
-| lab0.a      | [lab01a](https://github.com/haneenzyad98/Reading-notes/blob/main/lab01a.md). |
-|             |                                                                              |
-
 \#|Topic
 ---|---
 1  |[lab01a](Reading-notes/lab01a.md)
