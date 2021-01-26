@@ -8,5 +8,5 @@ I have participated in a number of information security competitions such as CTF
 
 \#|Topic
 ---|---
-1  |[lab01a](Reading-notes/lab01a.md)
-2  |[read03a](Reading-notes/read03a.md)
+1  |[lab01a](lab01a.md)
+2  |[read03a](read03a.md)
