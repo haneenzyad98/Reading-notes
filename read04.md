@@ -1,22 +1,63 @@
 # Introduction
-- HTML
-- Css
+WRITING A SCRIPT
 
-All websites use HTML and CSS, but content
-management systems, blogging software, and
-e-commerce platforms often add a few more
-technologies into the mix.
+A script is a series of instructions that the computer
+can follow in order to achieve a goa
 
-When you visit a website, the web server
-hosting that site could be anywhere in the
-world. In order for you to find the location of
-the web server, your browser will first connect
-to a Domain Name System (DNS) server.
+The first thing you should do is detail your goals for
+the script 
 
-## Structure
-The structure is very similar
-when a news story is viewed
-online (although it may also
-feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
+Next, break it into a series of tasks that have to be
+performed in order to achieve the goals
 
-## Links
+## EXPRESSIONS
+
+EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE
+In order for a variable to be useful, it needs to be
+given a value. As you have seen, this is done using
+the assignment operator (the equals sign).
+var x = 'hello';
+The value of co 1 or is now beige.
+When you first declare a variable using the var
+keyword, it is given a special value of undefined.
+This will change when you assign a value to it.
+Technically, undefined is a data type like a number,
+string, or Boolean. 
+ or **var area = 3 * 2;** 
+
+ ## OPERATORS
+ 1. ASSIGNMENT OPERATORS
+Assign a value to a variable
+color = 'beige'; 
+
+2. ARITHMETIC OPERATORS
+Perform basic math
+area = 3 * 2; 
+
+3. STRING OPERATORS
+Combine two strings
+greeting= 'Hi 1 + 'Mol ly'; 
+
+4. COMPARISON OPERATORS
+Compare two values and return true or fa 1 se
+buy = 3 > 5; 
+
+5. LOGICAL OPERATORS
+Combine expressions and return true or fa 1 se
+buy= (5 > 3) && (2 < 4); 
+
+## ARITHMETI C OPERATORS
+
+ - ADDITION +
+ - SUBTRACTION
+ - DIVISION I 
+ - MULTIPLICATION *
+ - INCREMENT + + 
+ - DECREMENT 
+ - MODULUS %
+
+ ## STRING OPERATOR
+  exampel of string it can contain a mix of char and number and opretors ...
+   var x ='haneen98@3'
+
