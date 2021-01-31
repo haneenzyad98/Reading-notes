@@ -16,7 +16,7 @@ function functionName( ){
 }
 functionName()
 
---------------------------
+
 
 - expressions :
 
@@ -28,11 +28,12 @@ code
  name();
 
 
+
  # CSS
  
- 
+
   Cascading Style Sheets
 
-  CSS is responsible for presentation
+  css is responsible for presentation
 
   ![img](img/css.PNG)
