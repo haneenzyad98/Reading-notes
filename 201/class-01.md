@@ -19,12 +19,12 @@ between their opening and closing tags.
 
 Ex:
 
-![img](img/q.png)
+![img](../img/q.png)
 
 
 # Extra Markup
 
- ![img](img/mk.PNG)
+ ![img](../img/mk.PNG)
 
 
 #  CH17 HTML5 Layout
@@ -102,7 +102,7 @@ information into sections or pages
 
 
 *Example of Site Maps*
-![img](img/cc.PNG)
+![img](../img/cc.PNG)
 
 
 
@@ -112,10 +112,10 @@ information that needs to go on each page of a
 site. It shows the hierarchy of the information
 and how much space it might require.
 
-![img](img/ss.PNG)
+![img](../img/ss.PNG)
 
 
 ## Designing Navigation
 helps them understand what your site is about and how it is organized.
 
-![img](img/ww.PNG)
+![img](../img/ww.PNG)

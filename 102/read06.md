@@ -36,4 +36,7 @@ code
 
   css is responsible for presentation
 
-  ![img](img/css.PNG)
+
+
+  ![img](../img/css.PNG)
+

@@ -49,7 +49,7 @@ CSS allows you to create rules that control the
 way that each individual box (and the contents
 of that box) is presented.
 
-![img](img/css.PNG)
+![img](../img/css.PNG)
 
 
 # Basic JavaScript Instructions

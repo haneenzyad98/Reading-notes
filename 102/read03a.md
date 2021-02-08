@@ -31,7 +31,7 @@ replaced by new HTML5 layout
 elements.
 
 ##  Some Example of tags
-![img](img/q.png)
+![img](../img/q.png)
 
 
 
@@ -74,7 +74,7 @@ information into sections or pages
 
 
 *Example of Site Maps*
-![img](img/cc.PNG)
+![img](../img/cc.PNG)
 
 
 
@@ -84,13 +84,13 @@ information that needs to go on each page of a
 site. It shows the hierarchy of the information
 and how much space it might require.
 
-![img](img/ss.PNG)
+![img](../img/ss.PNG)
 
 
 ## Designing Navigation
 helps them understand what your site is about and how it is organized.
 
-![img](img/ww.PNG)
+![img](../img/ww.PNG)
 
 # CH8 Extra Markup
 
