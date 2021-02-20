@@ -77,6 +77,30 @@ when image not repeated you can use image position
 Search Engine
 Optimization (SEO)
 
+to improvement search engine
+
+On-Page Techniques
+
+methods to inhance rating in search engines.
+i think like information retrieval(IR)method
+
+### How to Identify Keywords and Phrases
+
+-  Brainstorm
+
+determine which word may the user think and write to display and finde your site
+
+-  Organize
+
+make lists for the keywords in the same section for your site.
+
+-  Research
+
+ enter your keywords and
+then they will suggest additional
+keywords you might like to
+conside
+
 
 
 
