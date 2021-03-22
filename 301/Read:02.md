@@ -97,3 +97,18 @@ It is js file help you to select element from html by css selectors and do any t
      </ script>
 
 
+# Pair Programming
+
+Driver and the Navigator. 
+
+he Driver is the programmer who is typing and the only one whose hands are on the keyboard.
+
+ The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs.
+
+ - Greater efficiency
+ - Engaged collaboration
+ - Learning from fellow students
+ - Social skills
+ - Job interview readiness
+ - Work environment readiness
+
