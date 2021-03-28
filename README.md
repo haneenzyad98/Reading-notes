@@ -47,3 +47,5 @@ I have participated in a number of information security competitions such as CTF
 3  |[Read03](301/Read:03.md)
 4  |[Read04](301/Read:04.md)
 5  |[Read05](301/Read:05.md)
+6  |[Read06](301/Read:06.md)
+7  |[Read07](301/Read:07.md)
