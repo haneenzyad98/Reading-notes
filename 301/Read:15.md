@@ -1,6 +1,6 @@
 # When Women Stopped Coding
 
-Disaster  :joy:
+Disaster  ..! :shipit:
 
 
 
