@@ -16,10 +16,22 @@ method creates a new array with the chaing for every array element as  function 
 
   - Again with async / await syntax
 
-             describe('User API', () => {
-   
-                             })  
+          async function readFile(filePath) {
+  try {
+    const data = await fs.readFile(filePath);
+    console.log(data.toString());
+  } catch (error) {
+    console.error(`error`);
+  }
+}
 
-                             
+
+ - the Promise object represents the eventual completion (or failure)
+
+ - Are all callback functions considered to be Asynchronous? Why or Why Not?           
+ callback doesn’t make a function asynchronous
+ like forEach in array                 
+
+
 
 
