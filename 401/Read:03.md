@@ -2,8 +2,6 @@
 
 It acts like the connective  between applications, data, and users.
 
-- Name 3 real world use cases where you’d want to change the request with custom middleware?
-
 
 ## Request Object
 
