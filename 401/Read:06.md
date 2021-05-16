@@ -51,3 +51,20 @@ Delete = DELETE
 
 Mocks are usually created by using the third-party library such as Mockito, JMock, and WireMock.
 
+
+
+- Authentication is the process of verifying that an individual, entity or website is whom it claims to be. Authentication in the context of web applications is commonly performed by submitting a username or ID and one or more items of private information that only a given user should know.
+
+- Cryptographic hash algorithms MD5, SHA1, SHA256, SHA512, SHA-3 are general purpose hash functions, designed to calculate a digest of huge amounts of data in as short a time as possible. Hashing is the greatest way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password.
+
+
+- Basic access authentication
+
+is a method for an HTTP user agent to provide a user name and password when making a request. In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic <credentials>, where credentials is the Base64 encoding of ID and password joined by a single colon :
+
+
+- node.bcrypt.js
+
+Per bcrypt implementation, only the first 72 bytes of a string are used. Any extra bytes are ignored when matching passwords.
+
+![img](../img/zzzzzzzzz.PNG) 
