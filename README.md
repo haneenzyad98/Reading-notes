@@ -90,5 +90,5 @@ I have participated in a number of information security competitions such as CTF
 23 |[Read23](401/Read:23.md)
 24 |[Read24](401/Read:24.md)
 25 |[Read25](401/Read:25.md)
-25 |[Read25](401/Read:25.md)
+26 |[Read26](401/Read:26.md)
 27 |[Read27](401/Read:27.md)
